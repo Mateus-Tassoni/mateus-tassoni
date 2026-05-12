@@ -3,48 +3,46 @@
 
 ---
 
-Sou um desenvolvedor e arquiteto de software focado em construir sistemas escaláveis, resilientes e de alta performance. Atuo fortemente no desenho de microsserviços, governança de APIs e na integração de soluções de Inteligência Artificial para otimizar processos complexos do mundo real.
+Sou um desenvolvedor e arquiteto de software apaixonado por construir sistemas escaláveis, resilientes e de alta performance. Atuo fortemente no desenho de microsserviços, governança de APIs e na integração de soluções de Inteligência Artificial para otimizar processos de negócios e fluxos de dados complexos.
 
 ### 🚀 Sobre a minha jornada
-* 🏢 Desenvolvo soluções corporativas de alto impacto, com foco em segurança e arquitetura em nuvem.
-* 🎓 Especializando-me em Arquitetura de Software (MBA) para aprofundar o desenho de ecossistemas robustos e distribuídos. 
-* 💡 Experiência direta na liderança técnica de integrações e provas de conceito (PoCs) 
-* 💻 Atuo com fluidez em desenvolvimento cross-platform, utilizando tanto ambientes **Windows** quanto **macOS**.
+* 🏢 Desenvolvo soluções corporativas de alto impacto, com foco em segurança, integração de sistemas e arquitetura em nuvem.
+* 🎓 Especializando-me em Arquitetura de Software (MBA) e formado em Análise de Sistemas, focado em desenhar ecossistemas robustos e distribuídos.
+* 💡 Experiência direta na liderança técnica de soluções envolvendo IA, automação e arquitetura orientada a serviços para clientes internacionais e diversos setores.
 
 ### 🛠️ Stacks e Ferramentas
 
 **Linguagens & Frameworks**
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-1E1E1E?style=flat&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-1E1E1E?style=flat&logo=spring&logoColor=6DB33F)
+![Go](https://img.shields.io/badge/Go-1E1E1E?style=flat&logo=go&logoColor=00ADD8)
 
 **Arquitetura, Dados & API Management**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
-![Google Apigee](https://img.shields.io/badge/Apigee-DB4437?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat&logo=postgresql&logoColor=4169E1)
+![Kong](https://img.shields.io/badge/Kong-1E1E1E?style=flat&logo=kong&logoColor=003459)
+![Google Apigee](https://img.shields.io/badge/Apigee-1E1E1E?style=flat&logo=google&logoColor=DB4437)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=flat&logo=docker&logoColor=2496ED)
 
 **Inteligência Artificial**
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Visão%20Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=flat&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1E1E1E?style=flat&logo=ollama&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Visão_Computacional-1E1E1E?style=flat&logo=opencv&logoColor=FF6F00)
 
 ### 📌 Destaques de Projetos e Atuação
-
-* **IA & Visão Computacional em Igrejas:** Desenvolvimento e integração de sistemas baseados em Inteligência Artificial para reconhecimento e identificação facial em tempo real.
-* **Sistemas para Biomedicina:** Planejamento e arquitetura de sistemas de larga escala para análise de dados biomédicos, com foco em parsing automatizado de PDFs e gestão de pacientes.
-* **APIs de Alta Performance:** Criação de microsserviços ultra-rápidos em Go (como sistemas de validação de check-in) integrados com bancos relacionais.
-* **Governança & API Management:** Estruturação de gateways de API (Kong e Apigee) e integração com OData para segurança, roteamento e controle de tráfego.
+* **HealthTech & Biomedicina:** Planejamento e arquitetura de sistemas para análise de dados biomédicos, incluindo parsing automatizado de PDFs e gerenciamento complexo de pacientes.
+* **IA Aplicada & Visão Computacional:** Desenvolvimento de soluções com algoritmos de IA para sistemas integrados de reconhecimento e identificação facial utilizando câmeras, aplicados em ambientes institucionais e igrejas.
+* **APIs de Alta Performance:** Criação de serviços de validação de alta velocidade em Go (como sistemas robustos de check-in) integrados com PostgreSQL.
+* **Governança & API Management:** Estruturação de gateways de API e integração com OData para segurança, roteamento e controle de tráfego, incluindo elaboração de provas de conceito (PoCs) para clientes internacionais.
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-tassoni&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-tassoni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&text_color=9f9f9f&icon_color=6DB33F" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=6DB33F&text_color=9f9f9f" width="48%" />
 </p>
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-tassoni-616a60125/?skipRedirect=true)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateus.tassoni@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mateus-tassoni-616a60125/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=flat&logo=gmail&logoColor=D14836)](mailto:mateus.tassoni@outlook.com)
 
 ---
 <p align="center"><i>"A melhor arquitetura é aquela que resolve o problema de hoje e prepara o sistema para o amanhã."</i></p>
