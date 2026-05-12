@@ -40,10 +40,10 @@ Sou um desenvolvedor e arquiteto de software apaixonado por construir sistemas e
 
 ### 📫 Vamos nos conectar
 <p align="center">
-  <a href="(https://www.linkedin.com/in/mateus-tassoni-616a60125/?skipRedirect=true)">
+  <a href=(https://www.linkedin.com/in/mateus-tassoni-616a60125/?skipRedirect=true)>
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="mailto:mateus.tassoni@outlook.com">
+  <a href=mailto:mateus.tassoni@outlook.com>
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
