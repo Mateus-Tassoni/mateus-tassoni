@@ -30,20 +30,20 @@ Sou um desenvolvedor e arquiteto de software apaixonado por construir sistemas e
 * **HealthTech & Biomedicina:** Planejamento e arquitetura de sistemas para análise de dados biomédicos, incluindo parsing automatizado de PDFs e gerenciamento complexo de pacientes.
 * **IA Aplicada & Visão Computacional:** Desenvolvimento de soluções com algoritmos de IA para sistemas integrados de reconhecimento e identificação facial utilizando câmeras, aplicados em ambientes institucionais e igrejas.
 * **APIs de Alta Performance:** Criação de serviços de validação de alta velocidade em Go (como sistemas robustos de check-in) integrados com PostgreSQL.
-* **Governança & API Management:** Estruturação de gateways de API e integração com OData para segurança, roteamento e controle de tráfego, incluindo elaboração de provas de conceito (PoCs)
+* **Governança & API Management:** Estruturação de gateways de API e integração com OData para segurança, roteamento e controle de tráfego, incluindo elaboração de provas de conceito (PoCs).
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&text_color=9f9f9f&icon_color=6DB33F&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=6DB33F&text_color=9f9f9f&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateustassoni&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&text_color=9f9f9f&icon_color=6DB33F&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustassoni&layout=compact&theme=transparent&hide_border=true&title_color=6DB33F&text_color=9f9f9f&bg_color=00000000" width="48%" />
 </p>
 
 ### 📫 Vamos nos conectar
 <p align="center">
-  <a href=(https://www.linkedin.com/in/mateus-tassoni-616a60125/?skipRedirect=true)>
+  <a href="https://www.linkedin.com/in/mateus-tassoni-616a60125/?skipRedirect=true">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href=mailto:mateus.tassoni@outlook.com>
+  <a href="mailto:mateus.tassoni@outlook.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
